@@ -9,7 +9,8 @@ Experienced Game Developer with a background in Systems Engineering, Specialize 
 *   🌍  I'm based in Colorado
 *   🖥️  See my portfolio at [GeoGianni.com](http://www.GeoGianni.com)
 *   ✉️  You can contact me at [GeoGianniSoftware@gmail.com](mailto:GeoGianniSoftware@gmail.com)
-*   🚀  I'm currently working on [Real Time Factory](http://www.patreon.com/user?u=94348344)### Skills 
+*   🚀  I'm currently working on [Real Time Factory](http://www.patreon.com/user?u=94348344)
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
