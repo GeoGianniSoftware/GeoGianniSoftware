@@ -9,7 +9,7 @@ Experienced Game Developer with a background in Systems Engineering, Specialize 
 *   🌍  I'm based in Colorado
 *   🖥️  See my portfolio at [GeoGianni.com](http://www.GeoGianni.com)
 *   ✉️  You can contact me at [GeoGianniSoftware@gmail.com](mailto:GeoGianniSoftware@gmail.com)
-*   🏭  I'm currently working on [Real Time Factory](http://www.patreon.com/user?u=94348344)
+*   🏭  I'm currently working on A Multiplayer RTS built on Photon's Quantum 3 Deterministic Multiplayer Engine
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
